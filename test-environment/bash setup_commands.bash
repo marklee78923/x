@@ -26,6 +26,6 @@ history > bash-history.txt
 # Below should be run only when you clean up the bash-history.txt
 
 #mv bash-history.txt 'bash setup_commands.bash' 
-git add .
-git commit -m "half-submission"
-git push
+# git add .
+# git commit -m "half-submission"
+# git push

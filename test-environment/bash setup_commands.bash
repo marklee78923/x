@@ -27,5 +27,5 @@ history > bash-history.txt
 
 #mv bash-history.txt 'bash setup_commands.bash' 
 git add .
-git commit -m "final-submission"
+git commit -m "half-submission"
 git push

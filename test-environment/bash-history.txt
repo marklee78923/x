@@ -1,0 +1,17 @@
+    1  git add .
+    2  git commit -m "upgrade"
+    3  git push
+    4  git add .
+    5  git commit --amend -m "New commit message"
+    6  git push --force origin
+    7  '/workspaces/x/test-environment/bash setup_commands.bash'
+    8  chomod 777 y.bash
+    9  chmod 777 y.bash
+   10  cd test-environment
+   11  cd ../
+   12  ls
+   13  '/workspaces/x/y.bash'
+   14  ls -l
+   15  chmod 777 y.bash
+   16  ls -l
+   17  '/workspaces/x/y.bash'
